@@ -1,0 +1,6 @@
+[submodule "SERO-Frontend"]
+	path = SERO-Frontend
+	url = https://github.com/Team-WERP/SERO-Frontend.git
+[submodule "SERO-Backend"]
+	path = SERO-Backend
+	url = https://github.com/Team-WERP/SERO-Backend.git
