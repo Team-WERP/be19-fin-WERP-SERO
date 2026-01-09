@@ -71,4 +71,4 @@
 ---
 
 ## 📃 회고
-[![회고](https://img.shields.io/badge/회소-바로가기-blue?style=for-the-badge)]()
+[![회고](https://img.shields.io/badge/회고-바로가기-blue?style=for-the-badge)]()
