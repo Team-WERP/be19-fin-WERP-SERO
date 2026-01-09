@@ -63,5 +63,12 @@
 ### 화면 설계서
 [![화면설계서](https://img.shields.io/badge/화면설계서-바로가기-blueviolet?style=for-the-badge)]()
 
-### 🎬 화면 시연
+---
+
+## 🎬 화면 시연
 [![화면시연](https://img.shields.io/badge/화면시연-바로가기-lightgrey?style=for-the-badge)]()
+
+---
+
+## 📃 회고
+[![회고](https://img.shields.io/badge/회소-바로가기-blue?style=for-the-badge)]()
